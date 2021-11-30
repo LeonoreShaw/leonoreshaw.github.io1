@@ -400,7 +400,7 @@
   <script>
     Waline({
       el: '#waline',
-      serverURL: 'https://leonoreshaw-github-io-jfwpz2qks-leonoreshaw.vercel.app/',
+      serverURL: 'https://leonoreshaw-github-io.vercel.app/',
     });
   </script>
 </body>
