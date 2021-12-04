@@ -6,7 +6,7 @@
   <link href="https://leonoreshaw.github.io/atom.xml" rel="self"/>
   
   <link href="https://leonoreshaw.github.io/"/>
-  <updated>2021-12-03T15:36:58.567Z</updated>
+  <updated>2021-12-04T16:08:50.339Z</updated>
   <id>https://leonoreshaw.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Icarus - a Gorgeous Hexo Theme</title>
+    <link href="https://leonoreshaw.github.io/2021/12/05/Icarus---a-Gorgeous-Hexo-Theme/"/>
+    <id>https://leonoreshaw.github.io/2021/12/05/Icarus---a-Gorgeous-Hexo-Theme/</id>
+    <published>2021-12-04T16:08:50.153Z</published>
+    <updated>2021-12-04T16:08:50.339Z</updated>
+    
+    <content type="html"><![CDATA[<p align="center" class="mb-2"><img class="not-gallery-item" height="48" src="https://ppoffice.github.io/hexo-theme-icarus/img/logo.svg"><br> A simple, delicate, and modern theme for the static site generator Hexo.<br><a href="https://ppoffice.github.io/hexo-theme-icarus/">Preview</a> |<a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">Documentation</a> |<a href="https://github.com/ppoffice/hexo-theme-icarus/discussions">Discuss on GitHub</a><br></p><p><img src="https://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png?1" title="Icarus Preview"></p><h2 id="cd-Installation"><a href="#cd-Installation" class="headerlink" title=":cd: Installation"></a>:cd: Installation</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-theme-icarus</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo config theme icarus</span></span><br></pre></td></tr></table></figure><p>Please refer to <a href="https://ppoffice.github.io/hexo-theme-icarus/uncategorized/getting-started-with-icarus/">Getting Started with Icarus</a><br>for more details.</p><span id="more"></span><h2 id="gift-Features"><a href="#gift-Features" class="headerlink" title=":gift: Features"></a>:gift: Features</h2><h3 id="Cyberpunk-Theme-Variant"><a href="#Cyberpunk-Theme-Variant" class="headerlink" title="Cyberpunk Theme Variant"></a>Cyberpunk Theme Variant</h3><p>Tap into the future cyber world with the newly added Cyberpunk theme variant.<br>Inspired by <a href="https://www.cyberpunk.net/">Cyberpunk 2077</a>.</p><p><img src="https://ppoffice.github.io/hexo-theme-icarus/gallery/screenshots/cyberpunk.png" alt="Icarus Cyberpunk" title="Icarus Cyberpunk"></p><h3 id="Extensive-Plugin-Support"><a href="#Extensive-Plugin-Support" class="headerlink" title="Extensive Plugin Support"></a>Extensive Plugin Support</h3><p>Icarus includes plentiful search, comment, sharing and other plugins out of the box that makes your<br>blog feature-rich and powerful.</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/">Comment</a></strong></p><p>Changyan &middot; Disqus &middot; DisqusJS &middot; Facebook &middot; Gitalk &middot; Gitment &middot;<br>Isso &middot; LiveRe &middot; Utterance &middot; Valine</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/">Donate Button</a></strong></p><p>Afdian.net &middot; Alipay &middot; Buy me a coffee &middot; Patreon &middot; Paypal &middot; Wecat</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/">Search</a></strong></p><p>Algolia &middot; Baidu &middot; Google CSE &middot; Insight</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/">Share</a></strong></p><p>AddThis &middot; AddToAny &middot; Baidu Share &middot; Share.js &middot; ShareThis</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/">Widgets</a></strong></p><p>Google Adsense &middot; Archives &middot; Categories &middot; External Site Links &middot;<br>Recent Posts &middot; Google Feedburner &middot; Tags &middot; Table of Contents</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/Plugins/Analytics/icarus-user-guide-web-analytics-plugins/">Analytics</a></strong></p><p>Baidu Statistics &middot; Bing Webmaster &middot; BuSuanZi Web Counter &middot; CNZZ Statistics &middot;<br>Google Analytics &middot; Hotjar &middot; StatCounter &middot; Twitter Conversion Tracking</p><p><strong><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/">Other Plugins</a></strong></p><p>Cookie Consent &middot; LightGallery &middot; Justified Gallery &middot; KaTeX &middot; MathJax &middot;<br>Oudated Browser &middot; Page Loading Animations</p><h3 id="Colorful-Code-Highlight"><a href="#Colorful-Code-Highlight" class="headerlink" title="Colorful Code Highlight"></a>Colorful Code Highlight</h3><p>Icarus directly import stylesheets from the <a href="https://highlightjs.org/">highlight.js</a> package and makes more than<br>90 code highlight themes available to you.</p><table>    <tr>        <th>Atom One Light</th>        <th>Monokai</th>        <th>Kimbie Dark</th>    </tr>    <tr>        <td><img width="266" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/code-highlight/atom-one-light.png?2"></td>        <td><img width="266" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/code-highlight/monokai.png?2"></td>        <td><img width="266" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/code-highlight/kimbie-dark.png?2"></td>    </tr></table><h3 id="Flexible-Theme-Configuration"><a href="#Flexible-Theme-Configuration" class="headerlink" title="Flexible Theme Configuration"></a>Flexible Theme Configuration</h3><p>Icarus allows you to configure your site on a per-page or per-layout basis.</p><div><table>    <tr>        <th>_config.yml</th>        <th>post.md</th>        <th>_config.page.yml</th>    </tr>    <tr>        <td><pre>widgets:  - type: profile    position: left  - type: recent_posts    position: right</pre>        </td>        <td><pre>widgets:  - type: profile    position: left  - type: recent_posts    position: left</pre>        </td>        <td><pre>widgets: null <p></pre><br>        </td><br>    </tr><br>    <tr><br>        <td><img width="266" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/screenshots/default-config.png"></td><br>        <td><img width="266" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/screenshots/post-config.png"></td><br>        <td><img width="266" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/screenshots/layout-config.png"></td><br>    </tr></p></table></div><h3 id="Responsive-Layout"><a href="#Responsive-Layout" class="headerlink" title="Responsive Layout"></a>Responsive Layout</h3><p>Give your audiences best viewing experience with Icarus’s mobile-friendly responsive layout.</p><p><img src="https://ppoffice.github.io/hexo-theme-icarus/gallery/responsive.png" alt="Responsive Layout"></p><h2 id="hammer-Development"><a href="#hammer-Development" class="headerlink" title=":hammer: Development"></a>:hammer: Development</h2><p>This project is built with</p><ul><li><a href="https://hexo.io/">Hexo</a></li><li><a href="https://infernojs.org/">Inferno.js</a></li><li><a href="https://stylus-lang.com/">Stylus</a></li><li><a href="https://bulma.io/">Bulma</a></li></ul><p>Please refer to the <a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">documentation</a> and<br><a href="https://github.com/ppoffice/hexo-theme-icarus/blob/master/CONTRIBUTING.md">contributing guide</a> for implementation details.</p><h2 id="tada-Contribute"><a href="#tada-Contribute" class="headerlink" title=":tada: Contribute"></a>:tada: Contribute</h2><p>If you feel like to help us build a better Icarus, you can</p><p>:black_nib: <a href="https://github.com/ppoffice/hexo-theme-icarus/new/site/source/_posts">Submit a tutorial</a> |<br>:earth_asia: <a href="https://github.com/ppoffice/hexo-theme-icarus/tree/master/languages">Add a translation</a> |<br>:triangular_flag_on_post: <a href="https://github.com/ppoffice/hexo-theme-icarus/issues">Report a bug</a> |<br>:electric_plug: <a href="https://github.com/ppoffice/hexo-theme-icarus/pulls">Suggest a new feature</a></p><h2 id="memo-License"><a href="#memo-License" class="headerlink" title=":memo: License"></a>:memo: License</h2><p>This project is licensed under the MIT License - see the <a href="https://github.com/ppoffice/hexo-theme-icarus/blob/master/LICENSE">LICENSE</a> file for details.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p align=&quot;center&quot; class=&quot;mb-2&quot;&gt;
+&lt;img class=&quot;not-gallery-item&quot; height=&quot;48&quot; src=&quot;https://ppoffice.github.io/hexo-theme-icarus/img/logo.svg&quot;&gt;
+&lt;br&gt; A simple, delicate, and modern theme for the static site generator Hexo.
+&lt;br&gt;
+&lt;a href=&quot;https://ppoffice.github.io/hexo-theme-icarus/&quot;&gt;Preview&lt;/a&gt; |
+&lt;a href=&quot;https://ppoffice.github.io/hexo-theme-icarus/categories/&quot;&gt;Documentation&lt;/a&gt; |
+&lt;a href=&quot;https://github.com/ppoffice/hexo-theme-icarus/discussions&quot;&gt;Discuss on GitHub&lt;/a&gt;
+&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png?1&quot; title=&quot;Icarus Preview&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;cd-Installation&quot;&gt;&lt;a href=&quot;#cd-Installation&quot; class=&quot;headerlink&quot; title=&quot;:cd: Installation&quot;&gt;&lt;/a&gt;:cd: Installation&lt;/h2&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;bash&quot;&gt; npm install hexo-theme-icarus&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;bash&quot;&gt; hexo config theme icarus&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Please refer to &lt;a href=&quot;https://ppoffice.github.io/hexo-theme-icarus/uncategorized/getting-started-with-icarus/&quot;&gt;Getting Started with Icarus&lt;/a&gt;&lt;br&gt;for more details.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Blog" scheme="https://leonoreshaw.github.io/categories/Blog/"/>
+    
+    
+    <category term="Internet" scheme="https://leonoreshaw.github.io/tags/Internet/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo博客语法总结</title>
@@ -72,7 +106,7 @@
     <link href="https://leonoreshaw.github.io/2021/12/01/Learn-Something-about-Internet/"/>
     <id>https://leonoreshaw.github.io/2021/12/01/Learn-Something-about-Internet/</id>
     <published>2021-12-01T15:30:17.577Z</published>
-    <updated>2021-12-03T15:41:19.221Z</updated>
+    <updated>2021-12-04T15:59:12.320Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Surfing-the-Internet-World-Freely"><a href="#Surfing-the-Internet-World-Freely" class="headerlink" title="Surfing the Internet World Freely"></a>Surfing the Internet World Freely</h1><p>Project V</p><p>More coming soon ~~ ~~</p>]]></content>
     
